@@ -4,7 +4,7 @@
 
 | приложение        | тех задание        | репозиторий           | страница  | стек           |   |
 | ------------- | ------------- |:-------------:| -----:|:-------------:| -----:|
-|Тренажер слепой печати      | [click here](https://github.com/liza-rd-brain/TouchTyping/blob/main/TechnicalTask.)      | [click here](https://github.com/liza-rd-brain/TouchTyping) | [click here](https://liza-rd-brain.github.io/TouchTyping) | `React` `TypeScript` `Styled-Components`|  |
+|Тренажер слепой печати      | [click here](https://github.com/liza-rd-brain/TouchTyping/blob/main/TechnicalTask.md)      | [click here](https://github.com/liza-rd-brain/TouchTyping) | [click here](https://liza-rd-brain.github.io/TouchTyping) | `React` `TypeScript` `Styled-Components`|  |
 | -     | -    | -    |  - | -     |   - |
 | - | -| -     |   - | -     | -|
 

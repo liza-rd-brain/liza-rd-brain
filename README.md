@@ -4,8 +4,8 @@ I am trying to clean up my resume 🧹
 * Тестовые задания:
 
 | приложение        | тех задание        | репозиторий           | страница  | стек           |   |
-| ------------- | ------------- |:-------------:| -----:|:-------------:| -----:|
-|Тренажер слепой печати      | [click here](https://github.com/liza-rd-brain/TouchTyping/blob/main/TechnicalTask.md)      | [click here](https://github.com/liza-rd-brain/TouchTyping) | [click here](https://liza-rd-brain.github.io/TouchTyping) | `React` `TypeScript` `Styled-Components`|  |
+| ------------- | :-------------: |:-------------:| :-----:|:-------------:| -----:|
+|Тренажер слепой печати      | [📝...](https://github.com/liza-rd-brain/TouchTyping/blob/main/TechnicalTask.md) | [📁...](https://github.com/liza-rd-brain/TouchTyping) | [💻...](https://liza-rd-brain.github.io/TouchTyping) | `React` `TypeScript` `Styled-Components`|  |
 | -     | -    | -    |  - | -     |   - |
 | - | -| -     |   - | -     | -|
 

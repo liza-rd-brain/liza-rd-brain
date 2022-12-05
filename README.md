@@ -1,4 +1,28 @@
-### Hi there 👋
+### Hi there ☕
+
+* Тестовые задания:
+
+<table> <tr>
+    <th>приложение</th>
+    <th>техническое задание</th>
+    <th>репозиторий</th>
+    <th>страница</th>
+    <th>стек</th>
+  </tr>
+  <tr>
+    <td>Тренажер слепой печати</td>
+    <td>[click here](https://github.com/liza-rd-brain/TouchTyping/blob/main/TechnicalTask.)md</td>
+    <td>[click here](https://github.com/liza-rd-brain/TouchTyping)</td>
+    <td>[click here](https://liza-rd-brain.github.io/TouchTyping)</td>
+    <td>[click here]`React``TypeScript`` Styled-Components`</td>
+  </tr></table>
+
+* Учебные проекты:
+*gona be soon*
+* Pet-проекты:
+*gona be soon*
+
+
 
 <!--
 **liza-rd-brain/liza-rd-brain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

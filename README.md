@@ -2,7 +2,20 @@
 
 * Тестовые задания:
 
-<table> <tr>
+| приложение        | тех задание        | репозиторий           | страница  | стек           |   |
+| ------------- | ------------- |:-------------:| -----:|:-------------:| -----:|
+|Тренажер слепой печати      | [click here](https://github.com/liza-rd-brain/TouchTyping/blob/main/TechnicalTask.)      | [click here](https://github.com/liza-rd-brain/TouchTyping) | [click here](https://liza-rd-brain.github.io/TouchTyping) | `React` `TypeScript` `Styled-Components`|  |
+| -     | -    | -    |  - | -     |   - |
+| - | -| -     |   - | -     | -|
+
+
+* Учебные проекты:
+*gona be soon*
+* Pet-проекты:
+*gona be soon*
+
+
+<!-- <table> <tr>
     <th>приложение</th>
     <th>техническое задание</th>
     <th>репозиторий</th>
@@ -15,12 +28,7 @@
     <td>[click here](https://github.com/liza-rd-brain/TouchTyping)</td>
     <td>[click here](https://liza-rd-brain.github.io/TouchTyping)</td>
     <td>[click here]`React``TypeScript`` Styled-Components`</td>
-  </tr></table>
-
-* Учебные проекты:
-*gona be soon*
-* Pet-проекты:
-*gona be soon*
+  </tr></table> -->
 
 
 

@@ -13,9 +13,17 @@ It wood be cool if i get kinda star on some project for my effort. Thanks) 🌟
 | - | -| -     |   - | -     | -|
 
 
-* Учебные проекты:
-*gona be soon*
+
 * Pet-проекты:
+
+| приложение        | тех задание        | репозиторий           | страница  | стек           |   |
+| ------------- | :-------------: |:-------------:| :-----:|:-------------:| -----:|
+|ZombieGame  | [📝...](https://github.com/liza-rd-brain/ZombieGame/blob/master/TechnicalTask.md) | [📁...](https://github.com/liza-rd-brain/ZombieGame/tree/master) | [💻...](https://liza-rd-brain.github.io/ZombieGame/) | `React` `TypeScript` `Styled-Components`|  |
+| -     | -    | -    |  - | -     |   - |
+| - | -| -     |   - | -     | -|
+
+
+* Учебные проекты:
 *gona be soon*
 
 

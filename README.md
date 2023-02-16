@@ -6,21 +6,22 @@ It wood be cool if i get kinda star on some project for my effort. Thanks) 🌟
 
 * Тестовые задания:
 
-| приложение        | тех задание        | репозиторий           | страница  | стек           |   |
-| ------------- | :-------------: |:-------------:| :-----:|:-------------:| -----:|
-|Тренажер слепой печати      | [📝...](https://github.com/liza-rd-brain/TouchTyping/blob/main/TechnicalTask.md) | [📁...](https://github.com/liza-rd-brain/TouchTyping) | [💻...](https://liza-rd-brain.github.io/TouchTyping) | `React` `TypeScript` `Styled-Components`|  |
-| -     | -    | -    |  - | -     |   - |
-| - | -| -     |   - | -     | -|
+
+| приложение        | стек           |   
+| ------------- |-----|
+|[Тренажер слепой печати](https://liza-rd-brain.github.io/TouchTyping)   | `React` `TypeScript` `Styled-Components`|  |
+
 
 
 
 * Pet-проекты:
 
-| приложение        | тех задание        | репозиторий           | страница  | стек           |   |
-| ------------- | :-------------: |:-------------:| :-----:|:-------------:| -----:|
-|ZombieGame  | [📝...](https://github.com/liza-rd-brain/ZombieGame/blob/master/TechnicalTask.md) | [📁...](https://github.com/liza-rd-brain/ZombieGame/tree/master) | [💻...](https://liza-rd-brain.github.io/ZombieGame/) | `React` `Redux` `TypeScript` `Styled-Components` `Jest`|  |
-| -     | -    | -    |  - | -     |   - |
-| - | -| -     |   - | -     | -|
+| приложение        | стек           |   
+| ------------- |-----|
+|[ZombieGame](https://liza-rd-brain.github.io/ZombieGame/)   | `React` `Redux` `TypeScript` `Styled-Components` `Jest`|  |
+
+
+
 
 
 * Учебные проекты:

@@ -4,22 +4,21 @@ I am trying to clean up my resume 🧹
 
 It wood be cool if i get kinda star on some project for my effort. Thanks) 🌟
 
-* Тестовые задания:
+* Pet-projects:
 
-| приложение (repo)       |       страница  | стек    |   
+
+| app (repo)       |       web page  | stack    |   
 | ------------- |:-------------:| -----|
-|[Тренажер слепой печати](https://github.com/liza-rd-brain/TouchTyping)     | [TouchTyping](https://liza-rd-brain.github.io/TouchTyping) | `React` `TypeScript` `Styled-Components`| 
-|[resume](https://github.com/liza-rd-brain/resume)     | [resume demo](https://liza-rd-brain.github.io/resume/) | `pug` `scss` `adaptive markup` `bem` `webpack`|  |
+|[ZombieGame](https://github.com/liza-rd-brain/ZombieGame)     | [ZombieGame demo](https://liza-rd-brain.github.io/ZombieGame/)  | `React` `Redux` `TypeScript` `Styled-Components` `Jest`|  
+|[AnimeLibrary](https://github.com/liza-rd-brain/AnimeLibrary)   | - | `React` `Redux` `TypeScript` `Node` `Express` `Puppeteer` `MaterialUI5` `Turborepo`  `IndexedDB`  `MaterialUI5`|  |
 
 
+* Intership project:
 
-
-* Pet-проекты:
-
-
-| приложение (repo)       |       страница  | стек    |   
+| app (repo)       |       web page  | stack    |   
 | ------------- |:-------------:| -----|
-|[ZombieGame](https://github.com/liza-rd-brain/ZombieGame)     | [ZombieGame demo](https://liza-rd-brain.github.io/ZombieGame/)  | `React` `Redux` `TypeScript` `Styled-Components` `Jest`|  |
+|[Touch typing simulator](https://github.com/liza-rd-brain/TouchTyping)     | [TouchTyping](https://liza-rd-brain.github.io/TouchTyping) | `React` `TypeScript` `Styled-Components`| 
+|[Resume](https://github.com/liza-rd-brain/resume)     | [resume demo](https://liza-rd-brain.github.io/resume/) | `pug` `scss` `adaptive markup` `bem` `webpack`|  |
 
 
 
@@ -27,7 +26,12 @@ It wood be cool if i get kinda star on some project for my effort. Thanks) 🌟
 
 
 
-* Учебные проекты:
+
+
+
+
+
+* Study project:
 *gona be soon*
 
 

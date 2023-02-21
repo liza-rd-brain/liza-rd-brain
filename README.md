@@ -22,19 +22,13 @@ It wood be cool if i get kinda star on some project for my effort. Thanks) 🌟
 
 
 
-
-
-
-
-
-
-
-
-
 * Study project:
-*gona be soon*
 
-
+| app (repo)       |       web page  | stack    |   
+| ------------- |:-------------:| -----|
+|Below are my first projects in vanilla js. I'm really proud of them|
+|[Calenadar](https://github.com/liza-rd-brain/Calenadar)     | [Calenadar](https://github.com/liza-rd-brain/Calenadar) | `html` `js` `css`| 
+|[CatGame platformer](https://github.com/liza-rd-brain/CatGame)     | [CatGame demo](https://liza-rd-brain.github.io/CatGame/) | `html` `js` `css` `game`|  
 <!-- <table> <tr>
     <th>приложение</th>
     <th>техническое задание</th>
